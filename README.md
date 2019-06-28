@@ -1,6 +1,8 @@
-# Shell to Set Up vSMT-IO (Initial Version)
+# Shells to evaluate vSMT-IO 
 
-14 real-wolrd applications to evaluate vSMT-IO (Former Virt-SMT).
+Initial Version for VIRT-SMT Framework
+
+There are 14 real-wolrd applications to evaluate vSMT-IO (Former Virt-SMT).
 
 ## Apache2
 The aim of Apache HTTP Server is for an open-source HTTP server for modern operating systems.
